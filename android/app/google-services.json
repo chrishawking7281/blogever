@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291922118026",
+    "project_id": "blogever8",
+    "storage_bucket": "blogever8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291922118026:android:6ff9d65da5f3c18006f473",
+        "android_client_info": {
+          "package_name": "com.krzysztofkochel.blogever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291922118026-qr8jqe5h5qjbge6aqtd0jrbojtm946v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipS4xzruW-UCSARIQyX5yUi7n0Wehf_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291922118026-qr8jqe5h5qjbge6aqtd0jrbojtm946v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
